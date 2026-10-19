@@ -1,0 +1,7 @@
+.class
+bin/
+.settings/
+.idea/
+*.iml
+.env
+config.properties
